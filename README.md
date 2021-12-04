@@ -3,8 +3,20 @@
 After more then 1 year learning and developing, 💻
 This is the starting of my Portfolio. 
 Building from scratch. 🛠
-I love Blockchain and I love the Jesus and I love to create. 
- Lets do it together 🚀
+
+I used Java to create a Black Jack vending machine with following functions:
+
+arrays
+objects
+booleans
+if else statements
+comparison operators
+logical operators
+for loops
+The Math object
+ 
+ 
+ Very useful for Blockchain developing especially Solidity.
  
  
  Special thanks to @scrimba.com
